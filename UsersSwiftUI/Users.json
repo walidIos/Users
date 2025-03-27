@@ -1,0 +1,123 @@
+
+[
+    {
+        "id": 1,
+        "image": "https://randomuser.me/api/portraits/men/1.jpg",
+        "name": "John Doe",
+        "description": "Photographer and travel enthusiast."
+    },
+    {
+        "id": 2,
+        "image": "https://randomuser.me/api/portraits/women/2.jpg",
+        "name": "Jane Smith",
+        "description": "Software engineer and tech lover."
+    },
+    {
+        "id": 3,
+        "image": "https://randomuser.me/api/portraits/men/3.jpg",
+        "name": "Michael Johnson",
+        "description": "Graphic designer with a passion for digital art."
+    },
+    {
+        "id": 4,
+        "image": "https://randomuser.me/api/portraits/women/4.jpg",
+        "name": "Emily Brown",
+        "description": "Yoga instructor and wellness advocate."
+    },
+    {
+        "id": 5,
+        "image": "https://randomuser.me/api/portraits/men/5.jpg",
+        "name": "David Wilson",
+        "description": "Business consultant with a focus on startups."
+    },
+    {
+        "id": 6,
+        "image": "https://randomuser.me/api/portraits/women/6.jpg",
+        "name": "Linda Garcia",
+        "description": "Artist and illustrator, creating vibrant works."
+    },
+    {
+        "id": 7,
+        "image": "https://randomuser.me/api/portraits/men/7.jpg",
+        "name": "James Martinez",
+        "description": "Chef and culinary innovator."
+    },
+    {
+        "id": 8,
+        "image": "https://randomuser.me/api/portraits/women/8.jpg",
+        "name": "Sarah Lopez",
+        "description": "Marketing specialist and content creator."
+    },
+    {
+        "id": 9,
+        "image": "https://randomuser.me/api/portraits/men/9.jpg",
+        "name": "Robert Harris",
+        "description": "Engineer passionate about sustainable technologies."
+    },
+    {
+        "id": 10,
+        "image": "https://randomuser.me/api/portraits/women/10.jpg",
+        "name": "Patricia Clark",
+        "description": "Travel blogger and adventure seeker."
+    },
+    {
+        "id": 11,
+        "image": "https://randomuser.me/api/portraits/men/11.jpg",
+        "name": "William Lewis",
+        "description": "Entrepreneur with expertise in e-commerce."
+    },
+    {
+        "id": 12,
+        "image": "https://randomuser.me/api/portraits/women/12.jpg",
+        "name": "Elizabeth Walker",
+        "description": "Psychologist and mental health advocate."
+    },
+    {
+        "id": 13,
+        "image": "https://randomuser.me/api/portraits/men/13.jpg",
+        "name": "Charles Allen",
+        "description": "Scientist researching renewable energy sources."
+    },
+    {
+        "id": 14,
+        "image": "https://randomuser.me/api/portraits/women/14.jpg",
+        "name": "Nancy Young",
+        "description": "Freelance writer and editor."
+    },
+    {
+        "id": 15,
+        "image": "https://randomuser.me/api/portraits/men/15.jpg",
+        "name": "Thomas King",
+        "description": "Photographer specializing in portraiture."
+    },
+    {
+        "id": 16,
+        "image": "https://randomuser.me/api/portraits/women/16.jpg",
+        "name": "Jennifer Scott",
+        "description": "Healthcare professional focused on patient care."
+    },
+    {
+        "id": 17,
+        "image": "https://randomuser.me/api/portraits/men/17.jpg",
+        "name": "George Wright",
+        "description": "Software architect with a passion for AI."
+    },
+    {
+        "id": 18,
+        "image": "https://randomuser.me/api/portraits/women/18.jpg",
+        "name": "Karen Adams",
+        "description": "Financial advisor helping people plan for the future."
+    },
+    {
+        "id": 19,
+        "image": "https://randomuser.me/api/portraits/men/19.jpg",
+        "name": "Daniel Martinez",
+        "description": "Fitness trainer and sports nutritionist."
+    },
+    {
+        "id": 20,
+        "image": "https://randomuser.me/api/portraits/women/20.jpg",
+        "name": "Jessica Nelson",
+        "description": "Social media influencer and lifestyle guru."
+    }
+]
