@@ -5,11 +5,11 @@ L'application utilise également async/await pour gérer les appels réseau asyn
 
 # Fonctionnalités
 
-Affichage de données via SwiftUI
-Architecture MVVM pour une séparation claire des préoccupations
-Tests unitaires pour les composants clés
-Injection de dépendances pour une meilleure gestion des objets
-Utilisation de async/await pour la gestion des appels réseau
++ Affichage de données via SwiftUI
++ Architecture MVVM pour une séparation claire des préoccupations
++ Tests unitaires pour les composants clés
++ Injection de dépendances pour une meilleure gestion des objets
++ Utilisation de async/await pour la gestion des appels réseau
 
 # Technologies utilisées
 
