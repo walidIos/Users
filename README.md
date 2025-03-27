@@ -13,9 +13,9 @@ L'application utilise également async/await pour gérer les appels réseau asyn
 
 # Technologies utilisées
 
-SwiftUI : Interface utilisateur déclarative.
-Swift 6 : Dernière version du langage Swift.
-MVVM : Architecture Model-View-ViewModel pour une séparation claire entre les composants.
-Tests unitaires : Utilisation de XCTest pour garantir la fiabilité du code.
-Injection de dépendances : Pour une gestion flexible et testable des objets.
-async/await : Pour gérer les appels asynchrones de manière claire et concise.
++ SwiftUI : Interface utilisateur déclarative.
++ Swift 6 : Dernière version du langage Swift.
++ MVVM : Architecture Model-View-ViewModel pour une séparation claire entre les composants.
++ Tests unitaires : Utilisation de XCTest pour garantir la fiabilité du code.
++ Injection de dépendances : Pour une gestion flexible et testable des objets.
++ async/await : Pour gérer les appels asynchrones de manière claire et concise.
